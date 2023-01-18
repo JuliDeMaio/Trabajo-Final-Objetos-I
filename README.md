@@ -1,8 +1,9 @@
 # Trabajo-Final-Objetos-I
 Trabajo integrador realizado en la materia "Programacion con Objetos l"
 
-## ¿Cómo ejecutar?
-1) Descargar y descomprimir CuisUniversity desde el siguiente link: https://sites.google.com/view/cuis-university/descargas 
+#¿Cómo ejecutar?
+
+1)Descargar y descomprimir CuisUniversity desde el siguiente link: https://sites.google.com/view/cuis-university/descargas 
 <br />
 2)Abrir el directorio descomprimido y buscar entre sus archivos el ejecutable 'run'.
 <br />
