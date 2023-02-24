@@ -1,5 +1,5 @@
 # Trabajo-Final-Objetos-I
-Trabajo integrador grupal realizado en la materia "Programacion con Objetos l" por los alumnos Julian De Maio y Franco Beltrame
+Trabajo integrador grupal realizado en la materia "Programación con Objetos l" por los alumnos Julian De Maio y Franco Beltrame
 
 #¿Cómo ejecutar?
 
